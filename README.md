@@ -3,4 +3,4 @@
 <details open>
 <summary>Design</summary>
 <br/>
-![Given Design](https://github.com/ItsTHEAvro/landing_page/blob/main/images/odin-project.png?raw=true)
+![Given Design](https://raw.githubusercontent.com/ItsTHEAvro/landing_page/main/images/odin-project.png)
